@@ -1,0 +1,6 @@
+{
+  "name": "Drugs International",
+  "description": "Pharmacy management system for Drugs International Limited featuring real-time inventory tracking, automated refill notifications, dispensing register, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
